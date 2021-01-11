@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seiscomp xmlns="http://geofon.gfz-potsdam.de/ns/seiscomp3-schema/0.11" version="0.11">
+  <Config>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB11/default" created="2020-11-12T08:33:49.199623Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.199642.65685">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/MNMCX/default" created="2020-11-12T08:33:49.202482Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.202499.65742">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB09/default" created="2020-11-12T08:33:49.203869Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.2039.65763">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB06/default" created="2020-11-12T08:33:49.204085Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.204103.65766">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB18/default" created="2020-11-12T08:33:49.205228Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.205247.65786">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB12/default" created="2020-11-12T08:33:49.20716Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.207179.65816">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB08/default" created="2020-11-12T08:33:49.208497Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.208515.65837">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB03/default" created="2020-11-12T08:33:49.208695Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.208749.65840">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB05/default" created="2020-11-12T08:33:49.209759Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.209778.65855">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB16/default" created="2020-11-12T08:33:49.211161Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.211185.65876">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/HMBCX/default" created="2020-11-12T08:33:49.211856Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.211874.65890">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB01/default" created="2020-11-12T08:33:49.212989Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.213007.65911">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB10/default" created="2020-11-12T08:33:49.213192Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.213215.65914">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB07/default" created="2020-11-12T08:33:49.215306Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20201112083349.215323.65953">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX05/default" created="2021-01-04T15:42:57.03107Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.031136.4922">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PSGCX/default" created="2021-01-04T15:42:57.031297Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.031316.4925">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB02/default" created="2021-01-04T15:42:57.031403Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.03142.4928">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB13/default" created="2021-01-04T15:42:57.031618Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.031637.4931">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PATCX/default" created="2021-01-04T15:42:57.031763Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.031779.4934">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB14/default" created="2021-01-04T15:42:57.031958Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.031974.4937">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX03/default" created="2021-01-04T15:42:57.032052Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.032073.4940">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB19/default" created="2021-01-04T15:42:57.032233Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.032251.4943">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB15/default" created="2021-01-04T15:42:57.032343Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.03236.4946">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX02/default" created="2021-01-04T15:42:57.032445Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.032462.4949">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB04/default" created="2021-01-04T15:42:57.032537Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.032552.4952">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX06/default" created="2021-01-04T15:42:57.032667Z">
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104154257.032683.4955">
+        <name>detecStream</name>
+        <value>HH</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX05/scautopick" created="2021-01-04T15:53:36.477073Z">
+      <baseID>ParameterSet/trunk/Station/CX/PX05/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477073.1731">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1732">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1733">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PSGCX/scautopick" created="2021-01-04T15:53:36.477073Z">
+      <baseID>ParameterSet/trunk/Station/CX/PSGCX/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477073.1735">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1736">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1737">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB02/scautopick" created="2021-01-04T15:53:36.477073Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB02/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477073.1739">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1740">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1741">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB09/scautopick" created="2021-01-04T15:53:36.477073Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB09/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477073.1743">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1744">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477073.1745">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB13/scautopick" created="2021-01-04T15:53:36.477073Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB13/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1747">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1748">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1749">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB06/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB06/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1751">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1752">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1753">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PATCX/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PATCX/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1755">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1756">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1757">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB18/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB18/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1759">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1760">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1761">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB01/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB01/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1763">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1764">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1765">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB08/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB08/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1767">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1768">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1769">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB14/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB14/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1771">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1772">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1773">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX03/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PX03/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1775">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1776">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1777">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB05/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB05/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1779">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1780">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1781">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB10/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB10/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1783">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1784">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1785">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB19/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB19/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1787">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1788">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1789">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB15/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB15/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1791">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1792">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1793">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX02/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PX02/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1795">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1796">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1797">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB04/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB04/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1799">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1800">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.477074.1801">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB11/scautopick" created="2021-01-04T15:53:36.477074Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB11/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.477074.1803">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.480923.1804">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.480957.1805">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PX06/scautopick" created="2021-01-04T15:53:36.48103Z">
+      <baseID>ParameterSet/trunk/Station/CX/PX06/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.481049.1807">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481065.1808">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.48108.1809">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/MNMCX/scautopick" created="2021-01-04T15:53:36.481141Z">
+      <baseID>ParameterSet/trunk/Station/CX/MNMCX/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.481158.1811">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481175.1812">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.48119.1813">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/HMBCX/scautopick" created="2021-01-04T15:53:36.481249Z">
+      <baseID>ParameterSet/trunk/Station/CX/HMBCX/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.481264.1815">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.48128.1816">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481295.1817">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB16/scautopick" created="2021-01-04T15:53:36.481354Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB16/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.481371.1819">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481398.1820">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481415.1821">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB03/scautopick" created="2021-01-04T15:53:36.48148Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB03/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.481497.1823">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481513.1824">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481528.1825">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB12/scautopick" created="2021-01-04T15:53:36.481588Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB12/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.481604.1827">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.48162.1828">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481635.1829">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB07/scautopick" created="2021-01-04T15:53:36.481694Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB07/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+      <parameter publicID="Parameter/20210104155336.48171.1831">
+        <name>timeCorr</name>
+        <value>0</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481726.1832">
+        <name>picker.AIC.filter</name>
+        <value>ITAPER(4)&gt;&gt;BW(4,4,20)</value>
+      </parameter>
+      <parameter publicID="Parameter/20210104155336.481741.1833">
+        <name>detecFilter</name>
+        <value>RMHP(10)&gt;&gt;ITAPER(30)&gt;&gt;BW(4,4,20)&gt;&gt;STALTA(0.2,10)</value>
+      </parameter>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB09/L1p" created="2021-01-11T16:08:19.281184Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB09/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB13/L1p" created="2021-01-11T16:08:19.281365Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB13/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB06/L1p" created="2021-01-11T16:08:19.281475Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB06/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB08/L1p" created="2021-01-11T16:08:19.281684Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB08/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB14/L1p" created="2021-01-11T16:08:19.281766Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB14/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB05/L1p" created="2021-01-11T16:08:19.281889Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB05/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB10/L1p" created="2021-01-11T16:08:19.281971Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB10/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB15/L1p" created="2021-01-11T16:08:19.282091Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB15/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB04/L1p" created="2021-01-11T16:08:19.28221Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB04/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB11/L1p" created="2021-01-11T16:08:19.282291Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB11/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB07/L1p" created="2021-01-11T16:08:19.282445Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB07/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB03/L1p" created="2021-01-11T16:08:19.282562Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB03/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <parameterSet publicID="ParameterSet/trunk/Station/CX/PB12/L1p" created="2021-01-11T16:08:19.282642Z">
+      <baseID>ParameterSet/trunk/Station/CX/PB12/default</baseID>
+      <moduleID>Config/trunk</moduleID>
+    </parameterSet>
+    <module publicID="Config/trunk" name="trunk" enabled="true">
+      <station publicID="Config/trunk/CX/PB11" networkCode="CX" stationCode="PB11" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.199568Z</creationTime>
+          <modificationTime>2021-01-04T16:00:52.122256Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB11/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB11/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB11/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/MNMCX" networkCode="CX" stationCode="MNMCX" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.20243Z</creationTime>
+          <modificationTime>2021-01-04T16:01:08.060133Z</modificationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/MNMCX/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/MNMCX/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB09" networkCode="CX" stationCode="PB09" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.203805Z</creationTime>
+          <modificationTime>2021-01-04T16:00:50.04366Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB09/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB09/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB09/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB06" networkCode="CX" stationCode="PB06" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.204032Z</creationTime>
+          <modificationTime>2021-01-04T16:00:55.809487Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB06/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB06/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB06/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB18" networkCode="CX" stationCode="PB18" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.205142Z</creationTime>
+          <modificationTime>2021-01-04T16:00:44.706238Z</modificationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB18/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB18/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB12" networkCode="CX" stationCode="PB12" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.207092Z</creationTime>
+          <modificationTime>2021-01-04T16:01:00.996965Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB12/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB12/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB12/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB08" networkCode="CX" stationCode="PB08" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.208424Z</creationTime>
+          <modificationTime>2021-01-04T16:00:47.002038Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB08/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB08/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB08/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB03" networkCode="CX" stationCode="PB03" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.208611Z</creationTime>
+          <modificationTime>2021-01-04T16:00:57.630473Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB03/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB03/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB03/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB05" networkCode="CX" stationCode="PB05" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.209706Z</creationTime>
+          <modificationTime>2021-01-04T16:01:02.93356Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB05/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB05/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB05/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB16" networkCode="CX" stationCode="PB16" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.211098Z</creationTime>
+          <modificationTime>2021-01-04T16:01:10.02731Z</modificationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB16/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB16/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/HMBCX" networkCode="CX" stationCode="HMBCX" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.211805Z</creationTime>
+          <modificationTime>2021-01-04T16:01:12.003643Z</modificationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/HMBCX/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/HMBCX/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB01" networkCode="CX" stationCode="PB01" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.212936Z</creationTime>
+          <modificationTime>2021-01-04T16:00:53.83543Z</modificationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB01/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB01/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB10" networkCode="CX" stationCode="PB10" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.21314Z</creationTime>
+          <modificationTime>2021-01-04T16:01:05.010765Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB10/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB10/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB10/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB07" networkCode="CX" stationCode="PB07" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>scrttv@sc3training</author>
+          <creationTime>2020-11-12T08:33:49.215253Z</creationTime>
+          <modificationTime>2021-01-04T16:00:59.271146Z</modificationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB07/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB07/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB07/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PX05" networkCode="CX" stationCode="PX05" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.030844Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX05/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX05/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PSGCX" networkCode="CX" stationCode="PSGCX" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.031248Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PSGCX/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PSGCX/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB02" networkCode="CX" stationCode="PB02" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.031363Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB02/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB02/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB13" networkCode="CX" stationCode="PB13" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.031564Z</creationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB13/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB13/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB13/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PATCX" networkCode="CX" stationCode="PATCX" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.031722Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PATCX/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PATCX/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB14" networkCode="CX" stationCode="PB14" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.031918Z</creationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB14/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB14/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB14/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PX03" networkCode="CX" stationCode="PX03" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.032015Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX03/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX03/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB19" networkCode="CX" stationCode="PB19" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.032183Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB19/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB19/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB15" networkCode="CX" stationCode="PB15" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.032304Z</creationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB15/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB15/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB15/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PX02" networkCode="CX" stationCode="PX02" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.032399Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX02/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX02/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PB04" networkCode="CX" stationCode="PB04" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.032501Z</creationTime>
+        </creationInfo>
+        <setup name="L1p" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB04/L1p</parameterSetID>
+        </setup>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB04/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PB04/scautopick</parameterSetID>
+        </setup>
+      </station>
+      <station publicID="Config/trunk/CX/PX06" networkCode="CX" stationCode="PX06" enabled="true">
+        <creationInfo>
+          <agencyID>EWARNICA</agencyID>
+          <author>trunk</author>
+          <creationTime>2021-01-04T15:42:57.032629Z</creationTime>
+        </creationInfo>
+        <setup name="default" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX06/default</parameterSetID>
+        </setup>
+        <setup name="scautopick" enabled="true">
+          <parameterSetID>ParameterSet/trunk/Station/CX/PX06/scautopick</parameterSetID>
+        </setup>
+      </station>
+    </module>
+  </Config>
+</seiscomp>
