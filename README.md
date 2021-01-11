@@ -1,0 +1,1 @@
+# SeisComP-config-advanced-training
