@@ -19,7 +19,7 @@ cd $SEISCOMP_ROOT
 git checkout -b advanced-training-<YOUR NAME>
 git commit -m "Adds <YOUR NAME>"
 git remote add origin https://github.com/FMassin/SeisComP-config-advanced-training.git
-git push origin basic-training-<YOUR NAME>
+git push origin advanced-training-<YOUR NAME>
 ```
 
 # How to update your backup and sync online
